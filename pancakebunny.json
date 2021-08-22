@@ -1,176 +1,164 @@
 [
   {
-    "stakeToken": "pBUNNY",
-    "earnToken": "BNB + BUNNY + CAKE",
-    "totalLiquidity": 0,
-    "APY": 18318449
-  },
-  {
     "stakeToken": "BUNNY",
     "earnToken": "BUNNY",
-    "totalLiquidity": 84978556.98,
-    "APY": 300.43
+    "totalLiquidity": 61810894.58,
+    "APY": 113.66
   },
   {
     "stakeToken": "BUNNY-BNB FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 12845551.09,
-    "APY": 250.52
-  },
-  {
-    "stakeToken": "BUNNY",
-    "earnToken": "WBNB",
-    "totalLiquidity": 113081006.63,
-    "APY": 300.43
+    "totalLiquidity": 9960310.81,
+    "APY": 273.35
   },
   {
     "stakeToken": "QBT-BNB FLIP",
     "earnToken": "QBT",
-    "totalLiquidity": 24316761.26,
-    "APY": 1595.26
+    "totalLiquidity": 30825318.31,
+    "APY": 1968.4
   },
   {
     "stakeToken": "CAKE",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 219683316.14,
-    "APY": 99.9
+    "totalLiquidity": 218484509.81,
+    "APY": 99.15
   },
   {
     "stakeToken": "CAKE-BNB FLIP",
     "earnToken": "CAKE-BNB FLIP + BUNNY",
-    "totalLiquidity": 7602947.49,
-    "APY": 75.14
+    "totalLiquidity": 8099555.62,
+    "APY": 72.18
   },
   {
     "stakeToken": "CAKE-BNB FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 278391540.62,
-    "APY": 81.37
+    "totalLiquidity": 300824551.02,
+    "APY": 78.41
   },
   {
     "stakeToken": "BTCB-BNB FLIP",
     "earnToken": "BTCB-BNB FLIP + BUNNY",
-    "totalLiquidity": 542106.9,
-    "APY": 21.2
+    "totalLiquidity": 597483.47,
+    "APY": 20.68
   },
   {
     "stakeToken": "BTCB-BNB FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 5323081.58,
-    "APY": 26.32
+    "totalLiquidity": 5317049.63,
+    "APY": 25.94
   },
   {
     "stakeToken": "ETH-BNB FLIP",
     "earnToken": "ETH-BNB FLIP + BUNNY",
-    "totalLiquidity": 501364.2,
-    "APY": 17.41
+    "totalLiquidity": 549896.67,
+    "APY": 16.3
   },
   {
     "stakeToken": "ETH-BNB FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 9593167.89,
-    "APY": 21.39
+    "totalLiquidity": 9285336.91,
+    "APY": 20.19
   },
   {
     "stakeToken": "DOT-BNB FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 272786.5,
-    "APY": 36.06
+    "totalLiquidity": 589940.17,
+    "APY": 27.92
   },
   {
     "stakeToken": "BUSD-BNB FLIP",
     "earnToken": "BUSD-BNB FLIP + BUNNY",
-    "totalLiquidity": 315793.46,
-    "APY": 40.18
+    "totalLiquidity": 331153.06,
+    "APY": 34.41
   },
   {
     "stakeToken": "BUSD-BNB FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 15202131.3,
-    "APY": 46.14
+    "totalLiquidity": 16136315.95,
+    "APY": 40.34
   },
   {
     "stakeToken": "USDT-BNB FLIP",
     "earnToken": "USDT-BNB FLIP + BUNNY",
-    "totalLiquidity": 647536.57,
-    "APY": 49.65
+    "totalLiquidity": 646942.95,
+    "APY": 50.37
   },
   {
     "stakeToken": "USDT-BNB FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 10976487.28,
-    "APY": 56.27
+    "totalLiquidity": 10981627.68,
+    "APY": 56.93
   },
   {
     "stakeToken": "BTCB-BUSD FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 1968.46,
-    "APY": 34.32
+    "totalLiquidity": 43114.28,
+    "APY": 30.57
   },
   {
     "stakeToken": "USDT-BUSD FLIP",
     "earnToken": "USDT-BUSD FLIP + BUNNY",
-    "totalLiquidity": 2776464.8,
-    "APY": 12.71
+    "totalLiquidity": 1590389.99,
+    "APY": 10.48
   },
   {
     "stakeToken": "USDT-BUSD FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 21556403.9,
-    "APY": 15.66
+    "totalLiquidity": 15866251.77,
+    "APY": 13.56
   },
   {
     "stakeToken": "VAI-BUSD FLIP",
     "earnToken": "VAI-BUSD FLIP + BUNNY",
-    "totalLiquidity": 95507.62,
-    "APY": 9.99
+    "totalLiquidity": 125246.17,
+    "APY": 7.83
   },
   {
     "stakeToken": "VAI-BUSD FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 4475046.83,
-    "APY": 11.7
+    "totalLiquidity": 3535232.08,
+    "APY": 9.8
   },
   {
     "stakeToken": "DAI-BUSD FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 1630423.66,
-    "APY": 15.86
+    "totalLiquidity": 1737389.08,
+    "APY": 13.82
   },
   {
     "stakeToken": "USDC-BUSD FLIP",
     "earnToken": "CAKE + BUNNY",
-    "totalLiquidity": 1253690.11,
-    "APY": 13.7
+    "totalLiquidity": 1444947.83,
+    "APY": 14.19
   },
   {
     "stakeToken": "BNB",
     "earnToken": "BNB + BUNNY",
-    "totalLiquidity": 26223727.69,
-    "APY": 6.64
+    "totalLiquidity": 14538719.74,
+    "APY": 6.84
   },
   {
     "stakeToken": "ETH",
     "earnToken": "ETH + BUNNY",
-    "totalLiquidity": 4792483.18,
-    "APY": 1.26
+    "totalLiquidity": 4785413.94,
+    "APY": 1.23
   },
   {
     "stakeToken": "BTCB",
     "earnToken": "BTCB + BUNNY",
-    "totalLiquidity": 10205666.28,
-    "APY": 2.27
+    "totalLiquidity": 10934958.5,
+    "APY": 2.25
   },
   {
     "stakeToken": "USDT",
     "earnToken": "USDT + BUNNY",
-    "totalLiquidity": 16453571.14,
-    "APY": 12.16
+    "totalLiquidity": 16345655.91,
+    "APY": 12.93
   },
   {
     "stakeToken": "BUSD",
     "earnToken": "BUSD + BUNNY",
-    "totalLiquidity": 6895725.84,
-    "APY": 12.54
+    "totalLiquidity": 6794961.76,
+    "APY": 12.22
   }
 ]
