@@ -8,73 +8,66 @@
     "value": [
       {
         "stakeToken": "BREW",
-        "APR": 114.7,
+        "APR": 114.98,
         "earnToken": "BREW",
         "depositFee": 0,
-        "totalLiquidity": 2242840.982
+        "totalLiquidity": 2231012.296
       },
       {
         "stakeToken": "BREW",
-        "APR": 258.97,
+        "APR": 208.31,
         "earnToken": "WIZARD",
         "depositFee": 1,
-        "totalLiquidity": 57926.486
+        "totalLiquidity": 70499.151
       },
       {
         "stakeToken": "BREW",
-        "APR": 177.64,
+        "APR": 155.41,
         "earnToken": "CAKE",
         "depositFee": 0,
-        "totalLiquidity": 5663.555
+        "totalLiquidity": 6405.639
       },
       {
         "stakeToken": "BREW",
-        "APR": 81.08,
+        "APR": 82.45,
         "earnToken": "CAKE",
         "depositFee": 1,
-        "totalLiquidity": 171616.199
+        "totalLiquidity": 166944.253
       },
       {
         "stakeToken": "BREW",
-        "APR": 229.8,
+        "APR": 223.6,
         "earnToken": "DEP",
         "depositFee": 0,
-        "totalLiquidity": 5974.701
+        "totalLiquidity": 6197.077
       },
       {
         "stakeToken": "BREW",
-        "APR": 204.93,
+        "APR": 207.06,
         "earnToken": "DEP",
         "depositFee": 1,
-        "totalLiquidity": 92661.141
+        "totalLiquidity": 92524.012
       },
       {
         "stakeToken": "BREW",
-        "APR": 306.58,
+        "APR": 262.9,
         "earnToken": "BBQ",
         "depositFee": 1,
-        "totalLiquidity": 236701.221
+        "totalLiquidity": 249288.173
       },
       {
         "stakeToken": "BREW",
-        "APR": 168.76,
+        "APR": 182.9,
         "earnToken": "GFORCE",
         "depositFee": 1,
-        "totalLiquidity": 249711.065
+        "totalLiquidity": 236264.45
       },
       {
         "stakeToken": "BREW",
-        "APR": 246.76,
-        "earnToken": "HERO",
-        "depositFee": 0,
-        "totalLiquidity": 6602.642
-      },
-      {
-        "stakeToken": "BREW",
-        "APR": 122.13,
+        "APR": 119.67,
         "earnToken": "MCRN",
         "depositFee": 0,
-        "totalLiquidity": 115644.476
+        "totalLiquidity": 117572.824
       }
     ]
   },
@@ -91,135 +84,135 @@
     "value": [
       {
         "stakeToken": "CAKE",
-        "APR": 88.8,
+        "APR": 88.81,
         "earnToken": "Auto",
-        "totalLiquidity": 100806228
+        "totalLiquidity": 100714174
       },
       {
         "stakeToken": "CAKE",
         "APR": 64.51,
         "earnToken": "Manual",
-        "totalLiquidity": 62156568
+        "totalLiquidity": 62237386
       },
       {
         "stakeToken": "CAKE",
         "APR": null,
         "earnToken": "Earn",
-        "totalLiquidity": 121001
+        "totalLiquidity": 123093
       },
       {
         "stakeToken": "CAKE",
-        "APR": 89.9,
+        "APR": 84.19,
         "earnToken": "Earn",
-        "totalLiquidity": 385691
+        "totalLiquidity": 380201
+      },
+      {
+        "stakeToken": "CAKE",
+        "APR": 71.29,
+        "earnToken": "Earn",
+        "totalLiquidity": 141703
+      },
+      {
+        "stakeToken": "CAKE",
+        "APR": 63.99,
+        "earnToken": "Earn",
+        "totalLiquidity": 160470
+      },
+      {
+        "stakeToken": "CAKE",
+        "APR": 72.65,
+        "earnToken": "Earn",
+        "totalLiquidity": 160329
       },
       {
         "stakeToken": "CAKE",
         "APR": 67.9,
         "earnToken": "Earn",
-        "totalLiquidity": 140381
+        "totalLiquidity": 205029
       },
       {
         "stakeToken": "CAKE",
-        "APR": 60.88,
+        "APR": 67.74,
         "earnToken": "Earn",
-        "totalLiquidity": 164126
+        "totalLiquidity": 485944
       },
       {
         "stakeToken": "CAKE",
-        "APR": 64.07,
+        "APR": 62.56,
         "earnToken": "Earn",
-        "totalLiquidity": 169986
+        "totalLiquidity": 405978
       },
       {
         "stakeToken": "CAKE",
-        "APR": 63.97,
+        "APR": 69.74,
         "earnToken": "Earn",
-        "totalLiquidity": 215365
+        "totalLiquidity": 196168
       },
       {
         "stakeToken": "CAKE",
-        "APR": 69.36,
+        "APR": 71.02,
         "earnToken": "Earn",
-        "totalLiquidity": 506952
+        "totalLiquidity": 732301
       },
       {
         "stakeToken": "CAKE",
-        "APR": 60.34,
+        "APR": 70.65,
         "earnToken": "Earn",
-        "totalLiquidity": 410746
+        "totalLiquidity": 748367
       },
       {
         "stakeToken": "CAKE",
-        "APR": 64.84,
+        "APR": 67.78,
         "earnToken": "Earn",
-        "totalLiquidity": 205967
+        "totalLiquidity": 56332
       },
       {
         "stakeToken": "CAKE",
-        "APR": 66.01,
+        "APR": 72.5,
         "earnToken": "Earn",
-        "totalLiquidity": 750187
+        "totalLiquidity": 2772323
       },
       {
         "stakeToken": "CAKE",
-        "APR": 65.74,
+        "APR": 74.08,
         "earnToken": "Earn",
-        "totalLiquidity": 770431
+        "totalLiquidity": 5279991
       },
       {
         "stakeToken": "CAKE",
-        "APR": 65.23,
+        "APR": 67.6,
         "earnToken": "Earn",
-        "totalLiquidity": 57455
+        "totalLiquidity": 342791
       },
       {
         "stakeToken": "CAKE",
-        "APR": 65.91,
+        "APR": 71.88,
         "earnToken": "Earn",
-        "totalLiquidity": 3006599
+        "totalLiquidity": 581212
       },
       {
         "stakeToken": "CAKE",
-        "APR": 69.72,
+        "APR": 67.37,
         "earnToken": "Earn",
-        "totalLiquidity": 4753009
+        "totalLiquidity": 1319317
       },
       {
         "stakeToken": "CAKE",
-        "APR": 67.39,
+        "APR": 74.16,
         "earnToken": "Earn",
-        "totalLiquidity": 379525
+        "totalLiquidity": 342672
       },
       {
         "stakeToken": "CAKE",
-        "APR": 66.5,
+        "APR": 61,
         "earnToken": "Earn",
-        "totalLiquidity": 594056
+        "totalLiquidity": 264419
       },
       {
         "stakeToken": "CAKE",
-        "APR": 64.67,
+        "APR": 72.21,
         "earnToken": "Earn",
-        "totalLiquidity": 1366431
-      },
-      {
-        "stakeToken": "CAKE",
-        "APR": 66.18,
-        "earnToken": "Earn",
-        "totalLiquidity": 385366
-      },
-      {
-        "stakeToken": "CAKE",
-        "APR": 58.9,
-        "earnToken": "Earn",
-        "totalLiquidity": 265228
-      },
-      {
-        "stakeToken": "CAKE",
-        "APR": 67.1,
-        "earnToken": "Earn",
-        "totalLiquidity": 490758
+        "totalLiquidity": 502238
       }
     ]
   },
@@ -228,9 +221,9 @@
     "value": [
       {
         "stakeToken": "BBOO",
-        "APR": 77.15,
+        "APR": 77.14,
         "earnToken": "BBOO",
-        "totalLiquidity": 74995.729
+        "totalLiquidity": 75037.547
       }
     ]
   },
@@ -239,24 +232,24 @@
     "value": [
       {
         "stakeToken": "SALT",
-        "APR": 50.08,
+        "APR": 49.96,
         "earnToken": "$0 (0%)",
-        "depositFee": 40398,
-        "totalLiquidity": 40398
+        "depositFee": 40503,
+        "totalLiquidity": 40503
       },
       {
         "stakeToken": "BUSD",
-        "APR": 42.61,
+        "APR": 42.62,
         "earnToken": "$0 (0%)",
         "depositFee": 9495,
         "totalLiquidity": 9495
       },
       {
         "stakeToken": "WBNB",
-        "APR": 41.31,
+        "APR": 41.75,
         "earnToken": "$0 (0%)",
-        "depositFee": 4897,
-        "totalLiquidity": 4897
+        "depositFee": 4847,
+        "totalLiquidity": 4847
       }
     ]
   },
@@ -265,10 +258,10 @@
     "value": [
       {
         "stakeToken": "SLIME V2",
-        "APR": 25.25,
+        "APR": 27.57,
         "earnToken": "Slime",
         "depositFee": 0,
-        "totalLiquidity": 2848
+        "totalLiquidity": 2608
       },
       {
         "stakeToken": "WBNB",
@@ -300,10 +293,10 @@
       },
       {
         "stakeToken": "DOT",
-        "APR": 8.09,
+        "APR": 8.32,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 1482
+        "totalLiquidity": 1440
       },
       {
         "stakeToken": "ADA",
@@ -314,10 +307,10 @@
       },
       {
         "stakeToken": "CAKE",
-        "APR": 86.8,
+        "APR": 84.83,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 138
+        "totalLiquidity": 141
       },
       {
         "stakeToken": "LINK",
@@ -328,10 +321,10 @@
       },
       {
         "stakeToken": "ATOM",
-        "APR": 0.87,
+        "APR": 0.92,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 13773
+        "totalLiquidity": 13045
       },
       {
         "stakeToken": "ZIL",
@@ -391,10 +384,10 @@
       },
       {
         "stakeToken": "DOGE",
-        "APR": 6.85,
+        "APR": 6.25,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 1311
+        "totalLiquidity": 1439
       }
     ]
   }
