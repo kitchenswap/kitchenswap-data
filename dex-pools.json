@@ -8,38 +8,38 @@
     "value": [
       {
         "stakeToken": "BREW",
-        "APR": 78.61,
+        "APR": 78.67,
         "earnToken": "BREW",
         "depositFee": 0,
-        "totalLiquidity": 3253187.649
+        "totalLiquidity": 3250667.214
       },
       {
         "stakeToken": "BREW",
-        "APR": 124.8,
+        "APR": 122.4,
         "earnToken": "FINS",
         "depositFee": 0,
-        "totalLiquidity": 305304.663
+        "totalLiquidity": 303592.749
       },
       {
         "stakeToken": "BREW",
-        "APR": 188.02,
+        "APR": 195.28,
         "earnToken": "FINS",
         "depositFee": 0,
-        "totalLiquidity": 8475.599
+        "totalLiquidity": 8279.093
       },
       {
         "stakeToken": "BREW",
-        "APR": 39.98,
+        "APR": 39.05,
         "earnToken": "CZF",
         "depositFee": 0,
-        "totalLiquidity": 437.357
+        "totalLiquidity": 425.595
       },
       {
         "stakeToken": "BREW",
-        "APR": 43.2,
+        "APR": 41.11,
         "earnToken": "CZF",
         "depositFee": 0,
-        "totalLiquidity": 19356.347
+        "totalLiquidity": 18584.616
       }
     ]
   },
@@ -60,9 +60,9 @@
     "value": [
       {
         "stakeToken": "BBOO",
-        "APR": 69.66,
+        "APR": 69.65,
         "earnToken": "BBOO",
-        "totalLiquidity": 34500.63
+        "totalLiquidity": 37997.375
       }
     ]
   },
@@ -71,24 +71,24 @@
     "value": [
       {
         "stakeToken": "SALT",
-        "APR": 38.09,
+        "APR": 37.94,
         "earnToken": "$0 (0%)",
-        "depositFee": 22468,
-        "totalLiquidity": 22468
+        "depositFee": 22332,
+        "totalLiquidity": 22332
       },
       {
         "stakeToken": "BUSD",
-        "APR": 51.27,
+        "APR": 50.76,
         "earnToken": "$0 (0%)",
         "depositFee": 3338,
         "totalLiquidity": 3338
       },
       {
         "stakeToken": "WBNB",
-        "APR": 14.56,
+        "APR": 14.4,
         "earnToken": "$0 (0%)",
-        "depositFee": 5879,
-        "totalLiquidity": 5879
+        "depositFee": 5882,
+        "totalLiquidity": 5882
       }
     ]
   },
