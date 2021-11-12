@@ -8,38 +8,38 @@
     "value": [
       {
         "stakeToken": "BREW",
-        "APR": 85.04,
+        "APR": 84.5,
         "earnToken": "BREW",
         "depositFee": 0,
-        "totalLiquidity": 3016737.503
+        "totalLiquidity": 3026543.458
       },
       {
         "stakeToken": "BREW",
-        "APR": 146.34,
+        "APR": 141.79,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 8333.131
+        "totalLiquidity": 8384.52
       },
       {
         "stakeToken": "BREW",
-        "APR": 103.27,
+        "APR": 108.44,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 289978.672
+        "totalLiquidity": 271684.764
       },
       {
         "stakeToken": "BREW",
-        "APR": 69.06,
+        "APR": 68.71,
         "earnToken": "CZF",
         "depositFee": 0,
-        "totalLiquidity": 183.114
+        "totalLiquidity": 166.253
       },
       {
         "stakeToken": "BREW",
-        "APR": 36.15,
+        "APR": 33.05,
         "earnToken": "CZF",
         "depositFee": 0,
-        "totalLiquidity": 17181.24
+        "totalLiquidity": 17127.72
       }
     ]
   },
@@ -60,9 +60,9 @@
     "value": [
       {
         "stakeToken": "BBOO",
-        "APR": 69.62,
+        "APR": 69.58,
         "earnToken": "BBOO",
-        "totalLiquidity": 31862.619
+        "totalLiquidity": 31579.456
       }
     ]
   },
@@ -71,24 +71,24 @@
     "value": [
       {
         "stakeToken": "SALT",
-        "APR": 37.27,
+        "APR": 37.18,
         "earnToken": "$0 (0%)",
-        "depositFee": 21296,
-        "totalLiquidity": 21296
+        "depositFee": 18905,
+        "totalLiquidity": 18905
       },
       {
         "stakeToken": "BUSD",
-        "APR": 36.43,
+        "APR": 32.48,
         "earnToken": "$0 (0%)",
-        "depositFee": 4358,
-        "totalLiquidity": 4358
+        "depositFee": 4328,
+        "totalLiquidity": 4328
       },
       {
         "stakeToken": "WBNB",
-        "APR": 14.27,
+        "APR": 12.98,
         "earnToken": "$0 (0%)",
-        "depositFee": 5561,
-        "totalLiquidity": 5561
+        "depositFee": 5415,
+        "totalLiquidity": 5415
       }
     ]
   },
@@ -97,136 +97,136 @@
     "value": [
       {
         "stakeToken": "SLIME V2",
-        "APR": 24.27,
+        "APR": 24.04,
         "earnToken": "Slime",
         "depositFee": 0,
-        "totalLiquidity": 2121
+        "totalLiquidity": 2264
       },
       {
         "stakeToken": "WBNB",
-        "APR": 20.55,
+        "APR": 22.42,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 417
+        "totalLiquidity": 404
       },
       {
         "stakeToken": "BUSD",
-        "APR": 19.14,
+        "APR": 20.24,
         "earnToken": "Slime",
         "depositFee": 4,
         "totalLiquidity": 224
       },
       {
         "stakeToken": "BTCB",
-        "APR": 10.93,
+        "APR": 11.92,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 785
+        "totalLiquidity": 761
       },
       {
         "stakeToken": "ETH",
-        "APR": 322.12,
+        "APR": 351.58,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 27
+        "totalLiquidity": 26
       },
       {
         "stakeToken": "DOT",
-        "APR": 244.21,
+        "APR": 266.54,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 35
+        "totalLiquidity": 34
       },
       {
         "stakeToken": "ADA",
-        "APR": 201.3,
+        "APR": 219.7,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 43
+        "totalLiquidity": 41
       },
       {
         "stakeToken": "CAKE",
-        "APR": 90.45,
+        "APR": 98.72,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 95
+        "totalLiquidity": 92
       },
       {
         "stakeToken": "LINK",
-        "APR": 16.68,
+        "APR": 18.21,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 514
+        "totalLiquidity": 498
       },
       {
         "stakeToken": "ATOM",
-        "APR": 132.03,
+        "APR": 144.11,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 65
+        "totalLiquidity": 63
       },
       {
         "stakeToken": "ZIL",
-        "APR": 25.48,
+        "APR": 27.81,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 337
+        "totalLiquidity": 326
       },
       {
         "stakeToken": "LTC",
-        "APR": 310.01,
+        "APR": 338.36,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 21
+        "totalLiquidity": 20
       },
       {
         "stakeToken": "MTSLA",
-        "APR": 5.45,
+        "APR": 5.77,
         "earnToken": "Slime",
         "depositFee": 4,
         "totalLiquidity": 1180
       },
       {
         "stakeToken": "UNI",
-        "APR": 15.54,
+        "APR": 16.96,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 414
+        "totalLiquidity": 401
       },
       {
         "stakeToken": "MIR",
-        "APR": 3.48,
+        "APR": 3.68,
         "earnToken": "Slime",
         "depositFee": 4,
         "totalLiquidity": 1850
       },
       {
         "stakeToken": "UST",
-        "APR": 4.04,
+        "APR": 4.28,
         "earnToken": "Slime",
         "depositFee": 4,
         "totalLiquidity": 1060
       },
       {
         "stakeToken": "USDT",
-        "APR": 10.12,
+        "APR": 10.71,
         "earnToken": "Slime",
         "depositFee": 4,
         "totalLiquidity": 424
       },
       {
         "stakeToken": "DAI",
-        "APR": 40.91,
+        "APR": 43.26,
         "earnToken": "Slime",
         "depositFee": 4,
         "totalLiquidity": 105
       },
       {
         "stakeToken": "DOGE",
-        "APR": 4.22,
+        "APR": 4.56,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 1523
+        "totalLiquidity": 1492
       }
     ]
   }
