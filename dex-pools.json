@@ -8,59 +8,59 @@
     "value": [
       {
         "stakeToken": "BREW",
-        "APR": 85.71,
+        "APR": 85.8,
         "earnToken": "BREW",
         "depositFee": 0,
-        "totalLiquidity": 2992929.268
+        "totalLiquidity": 2998238.382
       },
       {
         "stakeToken": "BREW",
-        "APR": 215.81,
+        "APR": 200.72,
         "earnToken": "SQUID",
         "depositFee": 0,
-        "totalLiquidity": 53782.982
+        "totalLiquidity": 54478.893
       },
       {
         "stakeToken": "BREW",
-        "APR": 118.85,
+        "APR": 114.28,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 8507.743
+        "totalLiquidity": 8545.884
       },
       {
         "stakeToken": "BREW",
-        "APR": 157.02,
+        "APR": 148.44,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 217067.802
+        "totalLiquidity": 219237.502
       },
       {
         "stakeToken": "BREW",
-        "APR": 179.22,
+        "APR": 203.66,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 14541.175
+        "totalLiquidity": 14561.11
       },
       {
         "stakeToken": "BREW",
-        "APR": 240.81,
+        "APR": 264.14,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 243589.434
+        "totalLiquidity": 249793.187
       },
       {
         "stakeToken": "BREW",
-        "APR": 104.63,
+        "APR": 150.96,
         "earnToken": "CZF",
         "depositFee": 0,
-        "totalLiquidity": 552.703
+        "totalLiquidity": 554.237
       },
       {
         "stakeToken": "BREW",
-        "APR": 138.17,
+        "APR": 186.31,
         "earnToken": "CZF",
         "depositFee": 0,
-        "totalLiquidity": 18840.69
+        "totalLiquidity": 19983.315
       }
     ]
   },
@@ -81,9 +81,9 @@
     "value": [
       {
         "stakeToken": "BBOO",
-        "APR": 68.92,
+        "APR": 68.95,
         "earnToken": "BBOO",
-        "totalLiquidity": 28818.894
+        "totalLiquidity": 28804.435
       }
     ]
   },
@@ -92,10 +92,10 @@
     "value": [
       {
         "stakeToken": "SALT",
-        "APR": 33.81,
+        "APR": 33.72,
         "earnToken": "$0 (0%)",
-        "depositFee": 19500,
-        "totalLiquidity": 19500
+        "depositFee": 19549,
+        "totalLiquidity": 19549
       },
       {
         "stakeToken": "BUSD",
@@ -106,10 +106,10 @@
       },
       {
         "stakeToken": "WBNB",
-        "APR": 12.59,
+        "APR": 12.87,
         "earnToken": "$0 (0%)",
-        "depositFee": 5235,
-        "totalLiquidity": 5235
+        "depositFee": 5122,
+        "totalLiquidity": 5122
       }
     ]
   },
@@ -118,10 +118,10 @@
     "value": [
       {
         "stakeToken": "SLIME V2",
-        "APR": 22.47,
+        "APR": 22.25,
         "earnToken": "Slime",
         "depositFee": 0,
-        "totalLiquidity": 1957
+        "totalLiquidity": 1976
       },
       {
         "stakeToken": "WBNB",
@@ -146,10 +146,10 @@
       },
       {
         "stakeToken": "ETH",
-        "APR": 210.22,
+        "APR": 37.78,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 35
+        "totalLiquidity": 194
       },
       {
         "stakeToken": "DOT",
@@ -181,10 +181,10 @@
       },
       {
         "stakeToken": "ATOM",
-        "APR": 11.01,
+        "APR": 10.27,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 666
+        "totalLiquidity": 714
       },
       {
         "stakeToken": "ZIL",
@@ -195,10 +195,10 @@
       },
       {
         "stakeToken": "LTC",
-        "APR": 308.67,
+        "APR": 58.3,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 18
+        "totalLiquidity": 94
       },
       {
         "stakeToken": "MTSLA",
@@ -244,10 +244,10 @@
       },
       {
         "stakeToken": "DOGE",
-        "APR": 19.23,
+        "APR": 13.7,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 286
+        "totalLiquidity": 401
       }
     ]
   }
