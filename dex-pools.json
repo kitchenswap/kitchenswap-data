@@ -8,52 +8,52 @@
     "value": [
       {
         "stakeToken": "BREW",
-        "APR": 92.89,
+        "APR": 93.16,
         "earnToken": "BREW",
         "depositFee": 0,
-        "totalLiquidity": 2761739.892
+        "totalLiquidity": 2761201.435
       },
       {
         "stakeToken": "BREW",
-        "APR": 619.7,
+        "APR": 751.2,
         "earnToken": "HASH",
         "depositFee": 0,
-        "totalLiquidity": 242758.011
+        "totalLiquidity": 296141.219
       },
       {
         "stakeToken": "BREW",
-        "APR": 210.87,
+        "APR": 233.47,
         "earnToken": "SQUID",
         "depositFee": 0,
-        "totalLiquidity": 53664.261
+        "totalLiquidity": 53813.19
       },
       {
         "stakeToken": "BREW",
-        "APR": 159.37,
+        "APR": 171.49,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 6762.368
+        "totalLiquidity": 6845.766
       },
       {
         "stakeToken": "BREW",
-        "APR": 141.75,
+        "APR": 161.42,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 242144.089
+        "totalLiquidity": 243189.988
       },
       {
         "stakeToken": "BREW",
-        "APR": 297.38,
+        "APR": 324.49,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 16631.519
+        "totalLiquidity": 16354.009
       },
       {
         "stakeToken": "BREW",
-        "APR": 263.42,
+        "APR": 331.48,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 399272.365
+        "totalLiquidity": 357424.53
       }
     ]
   },
@@ -85,10 +85,10 @@
     "value": [
       {
         "stakeToken": "SALT",
-        "APR": 33.53,
+        "APR": 33.3,
         "earnToken": "$0 (0%)",
-        "depositFee": 19472,
-        "totalLiquidity": 19472
+        "depositFee": 19603,
+        "totalLiquidity": 19603
       },
       {
         "stakeToken": "BUSD",
@@ -99,10 +99,10 @@
       },
       {
         "stakeToken": "WBNB",
-        "APR": 12.41,
+        "APR": 12.28,
         "earnToken": "$0 (0%)",
-        "depositFee": 5259,
-        "totalLiquidity": 5259
+        "depositFee": 5316,
+        "totalLiquidity": 5316
       }
     ]
   },
