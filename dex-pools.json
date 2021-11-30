@@ -8,59 +8,59 @@
     "value": [
       {
         "stakeToken": "BREW",
-        "APR": 95.31,
+        "APR": 95.3,
         "earnToken": "BREW",
         "depositFee": 0,
-        "totalLiquidity": 2699138.464
+        "totalLiquidity": 2699423.912
       },
       {
         "stakeToken": "BREW",
         "APR": 0,
         "earnToken": "JADE",
         "depositFee": 0,
-        "totalLiquidity": 68906.645
+        "totalLiquidity": 69067.626
       },
       {
         "stakeToken": "BREW",
-        "APR": 419.68,
+        "APR": 413.98,
         "earnToken": "HASH",
         "depositFee": 0,
-        "totalLiquidity": 330725.07
+        "totalLiquidity": 330918.809
       },
       {
         "stakeToken": "BREW",
-        "APR": 239.46,
+        "APR": 245.69,
         "earnToken": "SQUID",
         "depositFee": 0,
         "totalLiquidity": 47705.999
       },
       {
         "stakeToken": "BREW",
-        "APR": 172.06,
+        "APR": 173.55,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 7375.957
+        "totalLiquidity": 7433.816
       },
       {
         "stakeToken": "BREW",
-        "APR": 159.17,
+        "APR": 156.12,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 260984.061
+        "totalLiquidity": 269668.256
       },
       {
         "stakeToken": "BREW",
-        "APR": 207.99,
+        "APR": 234.64,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 22280.215
+        "totalLiquidity": 22295.093
       },
       {
         "stakeToken": "BREW",
-        "APR": 287.36,
+        "APR": 322.6,
         "earnToken": "DUEL",
         "depositFee": 0,
-        "totalLiquidity": 352423.032
+        "totalLiquidity": 353326.199
       }
     ]
   },
@@ -83,7 +83,7 @@
         "stakeToken": "BBOO",
         "APR": 68.51,
         "earnToken": "BBOO",
-        "totalLiquidity": 26609.311
+        "totalLiquidity": 26522.001
       }
     ]
   },
@@ -92,10 +92,10 @@
     "value": [
       {
         "stakeToken": "SALT",
-        "APR": 29.15,
+        "APR": 29.12,
         "earnToken": "$0 (0%)",
-        "depositFee": 22384,
-        "totalLiquidity": 22384
+        "depositFee": 22405,
+        "totalLiquidity": 22405
       },
       {
         "stakeToken": "BUSD",
@@ -106,10 +106,10 @@
       },
       {
         "stakeToken": "WBNB",
-        "APR": 11.6,
+        "APR": 12,
         "earnToken": "$0 (0%)",
-        "depositFee": 5624,
-        "totalLiquidity": 5624
+        "depositFee": 5440,
+        "totalLiquidity": 5440
       }
     ]
   },
