@@ -1,1 +1,194 @@
-[]
+[
+  {
+    "stakeToken": "BUNNY",
+    "earnToken": "BUNNY",
+    "totalLiquidity": 17460067.48,
+    "APY": 76.75
+  },
+  {
+    "stakeToken": "BUNNY-BNB LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 3500688.65,
+    "APY": 49.92
+  },
+  {
+    "stakeToken": "bQBT",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 681686.95,
+    "APY": 79.31
+  },
+  {
+    "stakeToken": "bQBT-BNB LP",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 411982.05,
+    "APY": 160.99
+  },
+  {
+    "stakeToken": "CAKE",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 72718719.72,
+    "APY": 84.11
+  },
+  {
+    "stakeToken": "CAKE",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 462250.08,
+    "APY": 60.16
+  },
+  {
+    "stakeToken": "QBT-BNB LP",
+    "earnToken": "QBT",
+    "totalLiquidity": 2882143.3,
+    "APY": 102.86
+  },
+  {
+    "stakeToken": "CAKE-BNB LP",
+    "earnToken": "CAKE-BNB LP + BUNNY",
+    "totalLiquidity": 1535087.58,
+    "APY": 40.7
+  },
+  {
+    "stakeToken": "CAKE-BNB LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 27465148.32,
+    "APY": 46.79
+  },
+  {
+    "stakeToken": "BTCB-BNB LP",
+    "earnToken": "BTCB-BNB LP + BUNNY",
+    "totalLiquidity": 292170.84,
+    "APY": 7.64
+  },
+  {
+    "stakeToken": "BTCB-BNB LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 4698563.19,
+    "APY": 9.6
+  },
+  {
+    "stakeToken": "ETH-BNB LP",
+    "earnToken": "ETH-BNB LP + BUNNY",
+    "totalLiquidity": 469853.91,
+    "APY": 6.84
+  },
+  {
+    "stakeToken": "ETH-BNB LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 5645962.67,
+    "APY": 8.21
+  },
+  {
+    "stakeToken": "BUSD-BNB LP",
+    "earnToken": "BUSD-BNB LP + BUNNY",
+    "totalLiquidity": 675464.3,
+    "APY": 26.6
+  },
+  {
+    "stakeToken": "BUSD-BNB LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 3313408.16,
+    "APY": 28.96
+  },
+  {
+    "stakeToken": "USDT-BNB LP",
+    "earnToken": "USDT-BNB LP + BUNNY",
+    "totalLiquidity": 53531.96,
+    "APY": 25.49
+  },
+  {
+    "stakeToken": "USDT-BNB LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 6334183.33,
+    "APY": 27.69
+  },
+  {
+    "stakeToken": "USDT-BUSD LP",
+    "earnToken": "USDT-BUSD LP + BUNNY",
+    "totalLiquidity": 278351.23,
+    "APY": 9.83
+  },
+  {
+    "stakeToken": "USDT-BUSD LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 4230494.23,
+    "APY": 10.7
+  },
+  {
+    "stakeToken": "DOT-BNB LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 446107.54,
+    "APY": 14.78
+  },
+  {
+    "stakeToken": "BTCB-BUSD LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 34626.86,
+    "APY": 12.1
+  },
+  {
+    "stakeToken": "DAI-BUSD LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 12394.63,
+    "APY": 11.02
+  },
+  {
+    "stakeToken": "USDC-BUSD LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 107065.14,
+    "APY": 8.78
+  },
+  {
+    "stakeToken": "VAI-BUSD LP",
+    "earnToken": "VAI-BUSD LP + BUNNY",
+    "totalLiquidity": 10465.28,
+    "APY": 4.28
+  },
+  {
+    "stakeToken": "VAI-BUSD LP",
+    "earnToken": "CAKE + BUNNY",
+    "totalLiquidity": 197981.37,
+    "APY": 5.53
+  },
+  {
+    "stakeToken": "BNB",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 26474411.57,
+    "APY": 10.43
+  },
+  {
+    "stakeToken": "BUSD",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 17822733.46,
+    "APY": 14.13
+  },
+  {
+    "stakeToken": "USDT",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 19190803.37,
+    "APY": 10.66
+  },
+  {
+    "stakeToken": "DAI",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 2243019.95,
+    "APY": 13.71
+  },
+  {
+    "stakeToken": "USDC",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 11221243.62,
+    "APY": 14.51
+  },
+  {
+    "stakeToken": "BTCB",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 47237136.81,
+    "APY": 5.28
+  },
+  {
+    "stakeToken": "ETH",
+    "earnToken": "QBT + BUNNY",
+    "totalLiquidity": 31989789.65,
+    "APY": 5.93
+  }
+]
