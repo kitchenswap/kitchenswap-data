@@ -8,59 +8,45 @@
     "value": [
       {
         "stakeToken": "BREW",
-        "APR": 95.84,
+        "APR": 95.8,
         "earnToken": "BREW",
         "depositFee": 0,
-        "totalLiquidity": 2676620.931
+        "totalLiquidity": 2691891.226
       },
       {
         "stakeToken": "BREW",
         "APR": 0,
         "earnToken": "JADE",
         "depositFee": 0,
-        "totalLiquidity": 237003.624
+        "totalLiquidity": 264975.085
       },
       {
         "stakeToken": "BREW",
-        "APR": 566.26,
+        "APR": 549.63,
         "earnToken": "HASH",
         "depositFee": 0,
-        "totalLiquidity": 365888.983
+        "totalLiquidity": 417535.303
       },
       {
         "stakeToken": "BREW",
-        "APR": 332.17,
+        "APR": 342.06,
         "earnToken": "SQUID",
         "depositFee": 0,
-        "totalLiquidity": 47490.668
+        "totalLiquidity": 50303.638
       },
       {
         "stakeToken": "BREW",
-        "APR": 218.65,
+        "APR": 146.77,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 10725.941
+        "totalLiquidity": 16589.293
       },
       {
         "stakeToken": "BREW",
-        "APR": 271.7,
+        "APR": 229.97,
         "earnToken": "AXS",
         "depositFee": 0,
-        "totalLiquidity": 234774.139
-      },
-      {
-        "stakeToken": "BREW",
-        "APR": 944.14,
-        "earnToken": "DUEL",
-        "depositFee": 0,
-        "totalLiquidity": 12993.699
-      },
-      {
-        "stakeToken": "BREW",
-        "APR": 645.03,
-        "earnToken": "DUEL",
-        "depositFee": 0,
-        "totalLiquidity": 345462.691
+        "totalLiquidity": 317963.368
       }
     ]
   },
@@ -83,7 +69,7 @@
         "stakeToken": "BBOO",
         "APR": 68.17,
         "earnToken": "BBOO",
-        "totalLiquidity": 21201.202
+        "totalLiquidity": 20786.142
       }
     ]
   },
@@ -106,10 +92,10 @@
       },
       {
         "stakeToken": "WBNB",
-        "APR": 10.86,
+        "APR": 11.03,
         "earnToken": "$0 (0%)",
-        "depositFee": 4962,
-        "totalLiquidity": 4962
+        "depositFee": 4887,
+        "totalLiquidity": 4887
       }
     ]
   },
@@ -244,10 +230,10 @@
       },
       {
         "stakeToken": "DOGE",
-        "APR": 16.31,
+        "APR": 18.54,
         "earnToken": "Slime",
         "depositFee": 4,
-        "totalLiquidity": 236
+        "totalLiquidity": 208
       }
     ]
   }
